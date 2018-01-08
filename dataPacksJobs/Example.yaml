@@ -1,4 +1,4 @@
-projectPath: ./example_vlocity_build
+projectPath: ./vlocity_build
 queries: 
   - VlocityDataPackType: Product2 
     query: Select Id, Name from Product2 LIMIT 10
